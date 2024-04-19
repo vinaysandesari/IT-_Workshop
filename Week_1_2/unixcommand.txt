@@ -1,1 +1,16 @@
-
+All Unix commands diccussed in class: 
+whoami – To find username
+pwd - Print the Working Directory 
+cd - Changing Directory 
+ls - Listing the Contents of Directories 
+mkdir - Making Directories 
+rmdir - Removing Directories 
+cp - Copying a File 
+cat - Printing Files Onto the Screen 
+more - Printing Files One Screen at a Time 
+mv - Moving and Renaming Files 
+rm - Removing Files and Directories
+who – find out who is logged into the system
+echo – “hello world” ->echo prints value in terminal
+passwd – To change user password
+last - show history
